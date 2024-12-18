@@ -1,0 +1,8 @@
+httpcore==0.13.6
+googletrans==4.0.0-rc1
+python-dotenv
+pyttsx3
+SpeechRecognition
+google-generative-ai
+requests
+pywhatkit
